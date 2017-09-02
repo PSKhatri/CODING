@@ -1,3 +1,4 @@
+//this algo gives r th largest element in the array in o(n) time average and o(n^2).
 #include<bits/stdc++.h>
 using namespace std;
 int x,temp1,temp2,temp3,p,q;
